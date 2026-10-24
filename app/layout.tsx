@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AppThrust PostgreSQL sample",
-  description: "A database-backed starter application for AppThrust",
+  title: "OSS 化ブリーフィング — AppThrust",
+  description: "2024–2026 サプライチェーン事件から見る OSS 公開の判断",
 };
 
 export default function RootLayout({
